@@ -529,7 +529,7 @@ const productos = [
     {
         id: 57,
         nombre: "Picaditas de Carne",
-        precio: 8.0,
+        precio: 5.0,
         categoria: CATEGORIAS.PLATOS,
         tipo: TIPOS_PRODUCTO.PLATO,
         descripcion: "Picaditas de carne sin acompañamientos obligatorios",
