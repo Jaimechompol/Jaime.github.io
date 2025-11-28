@@ -538,7 +538,7 @@ const productos = [
     {
         id: 58,
         nombre: "Seco de Gallina",
-        precio: 7.5,
+        precio: 6.0,
         categoria: CATEGORIAS.PLATOS,
         tipo: TIPOS_PRODUCTO.PLATO,
         descripcion: "Seco de gallina tradicional ",
